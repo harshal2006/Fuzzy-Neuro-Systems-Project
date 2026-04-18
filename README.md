@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Fuzzy Logic & Hybrid Intelligent System Project
 
 ## Q1: Washing Machine using Fuzzy Logic
@@ -29,3 +30,6 @@ MATLAB Online, Fuzzy Logic Toolbox
 ## Author
 
 Harshal Vohra
+=======
+# Fuzzy-Neuro-Systems-Project
+>>>>>>> 5cdedeb85c151c64f6bdf798829da082e65187bf
