@@ -1,35 +1,41 @@
-<<<<<<< HEAD
+
 # Fuzzy Logic & Hybrid Intelligent System Project
 
-## Q1: Washing Machine using Fuzzy Logic
+## 🔹 Q1: Washing Machine using Fuzzy Logic
 
-Inputs: Dirt Level, Load Size
-Output: Wash Time
+* **Inputs:** Dirt Level, Load Size
+* **Output:** Wash Time
 
-Result:
+A Mamdani Fuzzy Inference System was designed to determine washing time based on input conditions.
+
+**Result:**
 Dirt = 5, Load = 5 → Wash Time ≈ 30 minutes
 
 ---
 
-## Q2: Hybrid Neuro-Fuzzy System (ANFIS)
+## 🔹 Q2: Hybrid Neuro-Fuzzy System (ANFIS)
 
-Inputs: Attendance, Assignment, Test
-Output: Performance Level
+* **Inputs:** Attendance, Assignment, Test Marks
+* **Output:** Performance Level
 
-Result:
+The system uses ANFIS (Adaptive Neuro-Fuzzy Inference System), which combines fuzzy logic with neural network learning to improve prediction accuracy.
+
+**Result:**
 Input [85, 80, 78] → Output ≈ 3.29 (Good)
 
 ---
 
-## Tools Used
+## 🛠 Tools Used
 
-MATLAB Online, Fuzzy Logic Toolbox
+* MATLAB Online
+* Fuzzy Logic Toolbox
+* ANFIS
 
 ---
 
-## Author
+## 👨‍💻 Author
 
 Harshal Vohra
-=======
-# Fuzzy-Neuro-Systems-Project
->>>>>>> 5cdedeb85c151c64f6bdf798829da082e65187bf
+
+
+
